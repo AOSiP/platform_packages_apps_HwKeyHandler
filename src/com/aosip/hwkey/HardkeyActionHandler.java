@@ -23,7 +23,7 @@
  *
  */
 
-package com.aquarios.hwkey;
+package com.aosip.hwkey;
 
 import static android.view.WindowManager.LayoutParams.PRIVATE_FLAG_KEYGUARD;
 import static android.view.WindowManager.LayoutParams.TYPE_KEYGUARD_DIALOG;
